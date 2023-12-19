@@ -1,1 +1,5 @@
-# BuscaMinas_RV_MR
+# INFO229 - Arquitectura de Software
+
+Integrantes:
+  - Rodrigo Vargas
+  - Matías Relauquen
